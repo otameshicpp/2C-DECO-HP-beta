@@ -293,6 +293,12 @@
     box-shadow: 0 50vh 2px 3px black;
     z-index: 9999;
 }
+
+.model-data-container{
+    height: 25vw;
+    width: 25vw;
+    margin: 0 0;
+}
 @media screen and ( max-width: 767px){
 
 
